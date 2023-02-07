@@ -9,4 +9,4 @@
 - [x] Lottie
 - [x] Custom Font
 
-![](https://media.giphy.com/media/Pthyf00mf1NKO6IPNW/giphy.gif)
+![](https://media.giphy.com/media/xDnwXxBZKLrrJUD4SP/giphy.gif)
